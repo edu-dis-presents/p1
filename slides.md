@@ -96,7 +96,7 @@ layout: two-cols
 # Процес класифікації та узагальнення
 
 <center>
-    <img src="/6.png" style="opacity: 1; width:75%">
+    <img src="/6.png" style="opacity: 1;">
 </center>
 
 
@@ -105,6 +105,6 @@ layout: two-cols
 # Cпособи опису динаміки системи
 
 <center>
-    <img src="/7.png" style="opacity: 1; width:75%">
+    <img src="/7.png" style="opacity: 1;">
 </center>
 

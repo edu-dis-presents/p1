@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "npx slidev",
-    "publish": "publish.sh",
+    "publish": "build.bat && publish.bat",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
