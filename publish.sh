@@ -4,6 +4,8 @@
 # abort on errors
 #set -e
 
+rm -rf dist 
+
 # build
 npx slidev build --base /p1/
 
