@@ -1,10 +1,11 @@
 #!/usr/bin/env sh
 
+
 # abort on errors
-set -e
+#set -e
 
 # build
-npx slidev build
+npx slidev build --base /p1/
 
 # navigate into the build output directory
 cd dist
@@ -20,6 +21,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:boldak/<USERNAME>.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f https://github.com/boldak/dis-edu.git master:gh-pages
+git push -f https://github.com/edu-db/p1.git master:gh-pages
 
 cd -
