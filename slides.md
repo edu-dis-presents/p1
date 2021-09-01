@@ -9,23 +9,54 @@ layout: cover
 
 # Організація навчального процесу
 
+Де шукати
 
 **Лекції, лаб.роботи, курсова робота:**
 
-https://discord.gg/srVqusn6
+[https://discord.gg/srVqusn6](https://discord.gg/srVqusn6)
 
 **Репозіторій:**
 
-https://github.com/boldak/edu-dis-labs
+[https://github.com/boldak/edu-dis-labs](https://github.com/boldak/edu-dis-labs)
+
+**Звітність**
+
+[Таблиця](https://docs.google.com/spreadsheets/d/1YP3bMyNmPczS3taCSf7I2K7qnjTrn9goE3dyI7NmXyI/edit?usp=sharing)
 
 **Контакти:**
 
-https://t.me/edu_db2021
+[https://t.me/edu_db2021](https://t.me/edu_db2021)
 
-boldak.andrey@gmail.com
+[boldak.andrey@gmail.com](mailto:boldak.andrey@gmail.com)
 
 
 ---
+
+
+# Система оцінювання
+
+<div style="font-size: small;
+    line-height: 1;
+    padding: 0 15em;">
+
+**Аналіз предметної області** |  10 | 10 | 10
+:-- | :--: | :--: | :--:  
+**Запити зацікавлених осіб**  |  10 | 10 | 10
+**Модель бізнес-об'єктів** | 10 | 10 | 10
+**ER-модель** | 10 | 10 | 10
+**SQL** | 10 | 10 | 10
+**RESTfull** | 10 | 10 | 10
+*Достроково* | 10 | &nbsp; | 10
+*Співбесіда* | 20 | &nbsp; | 20
+*Доповідь*   | 40 | 40 | &nbsp;
+*Залік* | 10 | &nbsp; | 10
+&nbsp; | 140 | 100 | 100
+
+</div>
+
+
+---
+
 
 # Тематика
 - Методологічні засади проектування баз даних
