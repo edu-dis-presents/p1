@@ -15,9 +15,10 @@ layout: cover
 
 [https://discord.gg/srVqusn6](https://discord.gg/srVqusn6)
 
-**Репозіторій:**
+**Репозіторій:** 
+<span class="color:green">перевірений</span>
 
-[https://github.com/boldak/edu-dis-labs](https://github.com/boldak/edu-dis-labs)
+[https://github.com/boldak/edu-db-cw](https://github.com/boldak/edu-db-cw)
 
 **Звітність**
 
